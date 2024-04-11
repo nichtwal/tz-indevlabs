@@ -20,20 +20,17 @@ npm install
 
 npm test
 
-Структура проекта
+## Структура проекта
 
-t-indevlabs/
-├── src
-│   └── missingNumbers
-│       └── missingNumbers.js
-│       └── missingNumbers.test.js
-├── README.md
-└── package.json
+- `src/missingNumbers.test.js`: файл с тестами для функции findMissingNumber.
+- `src/missingNumbers.js`: файл с реализацией функции findMissingNumber.
+- `README.md`: файл, который вы сейчас читаете.
+- `package.json`: файл с описанием зависимостей проекта и скриптами.
 
-src/missingNumbers.test.js файл с тестами для функции findMissingNumber.
-src/missingNumbers.js файл с реализацией функции findMissingNumber.
-README.md: файл, который вы сейчас читаете.
-package.json: файл с описанием зависимостей проекта и скриптами.
+## Вопросы и обратная связь
+
+Если у вас есть вопросы или предложения по улучшению проекта, пожалуйста, создайте [issue](https://github.com/yourusername/findMissingNumber/issues) в этом репозитории.
+
 
 
 ## Вопросы и обратная связь
